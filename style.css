@@ -5,12 +5,15 @@
 }
 
 .main {
-    position: fixed;
-    height: 80%;
+    height: 90%;
     width: 100%;
     display: flex;
     align-items: center;
     overflow: hidden;
+}
+
+.row {
+    position: fixed;
 }
 
 #display {
@@ -20,8 +23,8 @@
 .first {
     width: 100;
     position: absolute;
-    left: 26rem;
-    top: 10rem;
+    left: 34rem;
+    top: 5rem;
     text-align: center;
     text-shadow: 0 0 5px #DB881E;
     color: white;
@@ -30,15 +33,15 @@
 .about {
     border: 2px solid red;
     position: relative;
-    bottom: -45rem;
+    bottom: -30rem;
     text-align: center;
 }
 
 .about h2 {
+    text-shadow: 0 0 5px #DB881E;
     color: #DB881E;
 }
 
 .about p {
-    text-shadow: 0 0 5px #DB881E;
     color: black;
 }
