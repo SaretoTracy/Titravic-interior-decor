@@ -26,3 +26,10 @@
     text-shadow: 0 0 5px #DB881E;
     color: white;
 }
+
+.about {
+    color: black;
+    border: 2px solid red;
+    display: block;
+    position: relative;
+}
