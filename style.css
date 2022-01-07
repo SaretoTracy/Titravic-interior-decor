@@ -20,7 +20,7 @@
 .first {
     width: 100;
     position: absolute;
-    left: 34rem;
+    left: 26rem;
     top: 10rem;
     text-align: center;
     text-shadow: 0 0 5px #DB881E;
@@ -28,8 +28,8 @@
 }
 
 .about {
-    color: black;
     border: 2px solid red;
-    display: block;
     position: relative;
+    bottom: -45rem;
+    text-align: center;
 }
