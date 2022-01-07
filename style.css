@@ -16,3 +16,12 @@
 #display {
     height: 100vh;
 }
+
+.first {
+    width: 100;
+    position: absolute;
+    left: 24rem;
+    top: 10rem;
+    text-align: center;
+    color: #DB881E;
+}
