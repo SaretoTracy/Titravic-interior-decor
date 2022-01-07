@@ -20,8 +20,9 @@
 .first {
     width: 100;
     position: absolute;
-    left: 24rem;
+    left: 34rem;
     top: 10rem;
     text-align: center;
-    color: #DB881E;
+    text-shadow: 0 0 5px #DB881E;
+    color: white;
 }
