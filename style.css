@@ -33,3 +33,12 @@
     bottom: -45rem;
     text-align: center;
 }
+
+.about h2 {
+    color: #DB881E;
+}
+
+.about p {
+    text-shadow: 0 0 5px #DB881E;
+    color: black;
+}
