@@ -4,6 +4,10 @@
     font-family: 'EB Garamond', serif;
 }
 
+.navbar {
+    height: 30%;
+}
+
 .main {
     height: 90%;
     width: 100%;
@@ -21,7 +25,6 @@
 }
 
 .first {
-    width: 100;
     position: absolute;
     left: 34rem;
     top: 5rem;
@@ -31,17 +34,22 @@
 }
 
 .about {
-    border: 2px solid red;
+    background-image: url("images/white.jpg");
+    background-position: 100% center;
+    height: 60vh;
+    background-size: cover;
     position: relative;
     bottom: -30rem;
     text-align: center;
 }
 
 .about h2 {
+    padding-top: 8rem;
     text-shadow: 0 0 5px #DB881E;
-    color: #DB881E;
+    color: white;
 }
 
 .about p {
-    color: black;
+    color: #DB881E;
+    font-size: 20px;
 }
