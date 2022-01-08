@@ -104,3 +104,16 @@ button {
     border-radius: 20px;
     margin: 10rem;
 }
+
+#office {
+    border-radius: 30px;
+    position: relative;
+    left: 18rem;
+}
+
+.about h2 {
+    font-size: 70px;
+    position: relative;
+    left: 26rem;
+    top: 10rem;
+}
