@@ -102,7 +102,7 @@ button {
 
 #woman {
     border-radius: 20px;
-    margin: 10rem;
+    margin: 8rem;
 }
 
 #office {
@@ -117,5 +117,12 @@ button {
     font-size: 70px;
     position: relative;
     left: 26rem;
-    top: 10rem;
+    top: 12rem;
+}
+
+.about h3 {
+    font-size: 50px;
+    position: relative;
+    left: 34rem;
+    top: 15rem;
 }
