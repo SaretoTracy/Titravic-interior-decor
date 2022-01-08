@@ -10,39 +10,35 @@
     position: relative;
 }
 
-.first {
-    position: absolute;
-    left: 34rem;
-    top: 5rem;
-    text-align: center;
-    text-shadow: 0 0 5px #DB881E;
-    color: white;
-}
-
 
 /*services css*/
 
 .services {
-    top: 6rem;
+    padding-top: 6rem;
     overflow: hidden;
 }
 
 h1 {
     text-align: center;
-    padding-bottom: 2rem;
+    padding-bottom: 0.2rem;
     color: #DB881E;
 }
 
-.main {
+.video {
     height: 30vh;
     width: 100%;
     align-items: center;
-    display: flex;
-    overflow: hidden;
+    position: absolute;
+    top: 10rem;
+    right: 0;
+}
+
+.row {
+    display: grid;
 }
 
 #display {
-    height: 100vh;
+    height: 35vh;
 }
 
 .content {
@@ -52,31 +48,20 @@ h1 {
 }
 
 .desc {
-    padding-top: 14rem;
+    padding-top: 6rem;
     padding-right: 16rem;
     font-size: 18px;
 }
 
 .topic {
-    position: absolute;
     font-size: 27px;
-    left: 35rem;
-    top: 10rem;
-    text-align: center;
-    color: #DB881E;
-}
-
-.topic1 {
-    position: absolute;
-    font-size: 27px;
-    left: 26rem;
-    bottom: 16rem;
+    padding-bottom: 2rem;
     text-align: center;
     color: #DB881E;
 }
 
 .desc1 {
-    padding-top: 14rem;
+    padding-top: 8rem;
     padding-right: 6rem;
     font-size: 18px;
 }
