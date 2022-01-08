@@ -100,9 +100,14 @@ button {
     font-size: 20px;
 } */
 
-#woman {
-    border-radius: 20px;
-    margin: 8rem;
+.info {
+    display: flex;
+    padding-top: 5rem;
+}
+
+.info p {
+    padding-left: 12rem;
+    padding-top: 8rem;
 }
 
 #office {
