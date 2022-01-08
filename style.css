@@ -75,23 +75,6 @@
     position: absolute;
 }
 
-button {
-    padding: 6px 10px;
-    border-radius: 20px;
-    border: none;
-    background: #DB881E;
-    color: #0b4e46;
-}
-
-.cross {
-    height: 40vh;
-    width: 30vh;
-    position: absolute;
-    right: 1rem;
-    top: 10rem;
-    clip-path: polygon(10% 25%, 35% 25%, 35% 0%, 65% 0%, 65% 25%, 90% 25%, 90% 50%, 65% 50%, 65% 100%, 35% 100%, 35% 50%, 10% 50%);
-}
-
 
 /*about css*/
 
