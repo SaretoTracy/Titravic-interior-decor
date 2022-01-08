@@ -43,6 +43,13 @@
     overflow: hidden;
 }
 
+.commercial h1 {
+    text-align: center;
+    padding-bottom: 2rem;
+    color: #DB881E;
+    padding-left: 12rem;
+}
+
 .content {
     display: flex;
     justify-content: space-around;
@@ -50,7 +57,7 @@
 }
 
 .desc {
-    padding-top: 13rem;
+    padding-top: 14rem;
     padding-right: 16rem;
     font-size: 18px;
 }
@@ -58,8 +65,8 @@
 .topic {
     position: absolute;
     font-size: 36px;
-    left: 28rem;
-    top: 5rem;
+    left: 26rem;
+    top: 10rem;
     text-align: center;
     color: #DB881E;
 }
@@ -81,7 +88,7 @@ button {
     width: 30vh;
     position: absolute;
     right: 1rem;
-    top: 5rem;
+    top: 10rem;
     clip-path: polygon(10% 25%, 35% 25%, 35% 0%, 65% 0%, 65% 25%, 90% 25%, 90% 50%, 65% 50%, 65% 100%, 35% 100%, 35% 50%, 10% 50%);
 }
 
