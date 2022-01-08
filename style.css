@@ -108,7 +108,9 @@ button {
 #office {
     border-radius: 30px;
     position: relative;
-    left: 18rem;
+    left: 20rem;
+    top: -12rem;
+    height: 60vh;
 }
 
 .about h2 {
