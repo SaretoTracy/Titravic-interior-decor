@@ -64,29 +64,25 @@
 
 .topic {
     position: absolute;
-    font-size: 36px;
-    left: 26rem;
+    font-size: 27px;
+    left: 35rem;
     top: 10rem;
     text-align: center;
     color: #DB881E;
 }
 
-.topic span {
-    position: absolute;
-}
-
 .topic1 {
     position: absolute;
-    font-size: 36px;
-    right: 26rem;
-    bottom: 20rem;
+    font-size: 27px;
+    left: 26rem;
+    bottom: 16rem;
     text-align: center;
     color: #DB881E;
 }
 
 .desc1 {
     padding-top: 14rem;
-    padding-left: 16rem;
+    padding-right: 6rem;
     font-size: 18px;
 }
 
@@ -95,7 +91,7 @@ button {
     border-radius: 20px;
     border: none;
     background: #DB881E;
-    color: #0b4e46;
+    color: white;
 }
 
 
