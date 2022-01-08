@@ -11,15 +11,15 @@
 }
 
 .main {
-    height: 90%;
+    height: 100%;
     width: 100%;
-    display: flex;
     align-items: center;
+    display: flex;
     overflow: hidden;
 }
 
 .row {
-    position: fixed;
+    position: absolute;
 }
 
 #display {
@@ -34,6 +34,16 @@
     text-shadow: 0 0 5px #DB881E;
     color: white;
 }
+
+
+/*services css*/
+
+.services {
+    top: 30rem;
+}
+
+
+/*about css*/
 
 .about {
     background-image: url("images/white.jpg");
