@@ -52,6 +52,7 @@
 .desc {
     padding-top: 13rem;
     padding-right: 16rem;
+    font-size: 18px;
 }
 
 .topic {
@@ -65,6 +66,14 @@
 
 .topic span {
     position: absolute;
+}
+
+button {
+    padding: 6px 10px;
+    border-radius: 20px;
+    border: none;
+    background: #DB881E;
+    color: #0b4e46;
 }
 
 
