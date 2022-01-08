@@ -42,6 +42,17 @@
     top: 30rem;
 }
 
+.commercial {
+    display: flex;
+    justify-content: space-around;
+    padding-left: 8rem;
+}
+
+.desc {
+    padding-top: 13rem;
+    padding-right: 16rem;
+}
+
 
 /*about css*/
 
