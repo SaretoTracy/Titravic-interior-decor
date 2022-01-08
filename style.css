@@ -26,11 +26,10 @@ h1 {
 
 .video {
     height: 30vh;
-    width: 100%;
+    width: 90%;
     align-items: center;
     position: absolute;
     top: 10rem;
-    right: 0;
 }
 
 .row {
@@ -77,28 +76,9 @@ button {
 
 /*about css*/
 
-
-/* 
 .about {
-    background-image: url("images/white.jpg");
-    background-position: 100% center;
-    height: 60vh;
-    background-size: cover;
-    position: relative;
-    bottom: -30rem;
-    text-align: center;
+    width: 100%;
 }
-
-.about h2 {
-    padding-top: 8rem;
-    text-shadow: 0 0 5px #DB881E;
-    color: white;
-}
-
-.about p {
-    color: #DB881E;
-    font-size: 20px;
-} */
 
 .about h1 {
     text-align: center;
