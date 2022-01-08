@@ -10,22 +10,6 @@
     position: relative;
 }
 
-.main {
-    height: 100%;
-    width: 100%;
-    align-items: center;
-    display: flex;
-    overflow: hidden;
-}
-
-.row {
-    position: absolute;
-}
-
-#display {
-    height: 100vh;
-}
-
 .first {
     position: absolute;
     left: 34rem;
@@ -39,15 +23,26 @@
 /*services css*/
 
 .services {
-    top: 30rem;
+    top: 6rem;
     overflow: hidden;
 }
 
-.commercial h1 {
+h1 {
     text-align: center;
     padding-bottom: 2rem;
     color: #DB881E;
-    padding-left: 12rem;
+}
+
+.main {
+    height: 30vh;
+    width: 100%;
+    align-items: center;
+    display: flex;
+    overflow: hidden;
+}
+
+#display {
+    height: 100vh;
 }
 
 .content {
